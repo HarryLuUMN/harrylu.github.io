@@ -1,4 +1,4 @@
-[![Github](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/HarryLu0708)
+[![HarryLu0708](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/HarryLu0708)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yilin-lu/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%230A4D92?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AL3_zijt20idcwT8Sp-5Hfzjhdvvw7l893xJmcUVnMlM1dlat3x4KawZRgW3yCn-6WU1mcqP_Ww2qrHrY4bqkg&user=tmxIPCcAAAAJ)
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%231E2A2A?style=for-the-badge&logo=zhihu&logoColor=blue)](https://www.zhihu.com/people/81-31-89-5)
